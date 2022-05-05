@@ -1,3 +1,3 @@
 export default function notify() {
-  alert("¾È³çÇÏ¼¼¿ä!");
+  alert("ì•ˆë…•í•˜ì„¸ìš”!");
 }
